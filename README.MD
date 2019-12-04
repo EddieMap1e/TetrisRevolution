@@ -1,8 +1,8 @@
 **创新俄罗斯方块**
 
-<kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>  控制方块方向	c
+<kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>  控制方块方向	control the direction
 
-<kbd>space</kbd> 控制方块变形	t
+<kbd>space</kbd> 控制方块变形	transform
 
 下落速度会随着分数上升而上升	
 
