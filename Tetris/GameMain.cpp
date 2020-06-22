@@ -1,5 +1,7 @@
 //Code By Eddie Zhao
-
+#pragma comment(lib, "User32")
+#pragma comment(lib,"GDI32")
+#pragma comment(lib,"Advapi32")
 extern unsigned long score = 0;		//分数
 extern unsigned long topScore = 0;	//历史最高分
 extern int speed = 800;	//下落速度
